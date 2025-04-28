@@ -1,6 +1,6 @@
 # movie_recommendation_system
 
-Docker image: https://hub.docker.com/repository/docker/tkdutta/movierecommender/general
+Docker image: tkdutta/movierecommender
 
 To use perform the following steps:
 

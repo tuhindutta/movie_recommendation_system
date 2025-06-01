@@ -14,7 +14,6 @@ This project leverages content-based filtering to recommend movies. By analyzing
 ## 🛠️ Technologies Used
 - Programming Language: Python
 - Web Framework: Streamlit
-- Data Processing: Pandas, NumPy
 - API Integration: TMDb API
 - Containerization: Docker (Docker image: tkdutta/movierecommender)
 
